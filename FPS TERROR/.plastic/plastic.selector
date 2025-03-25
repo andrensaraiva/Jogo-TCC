@@ -1,0 +1,4 @@
+repository "FPS TERROR@MayoumaStudioZero@cloud"
+  path "/"
+    br "/main"
+    co "/main"
